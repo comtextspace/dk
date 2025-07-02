@@ -1,0 +1,12 @@
+vuepress:
+  title: "Архив конференции «Ильенковские чтения»"
+  base: "/"
+  revisionmeProjectId: ""
+
+pages:
+  - index.md
+
+books:
+  - content/2020-1.yml
+  - content/2021.yml
+
