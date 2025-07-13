@@ -7,7 +7,8 @@ pages:
   - index.md
 
 books:
+  - content/2021.md
   - content/2020-1.md
   - content/2020-2.md
-  - content/2021.md
-
+  - content/2019-обзор.md
+  - content/2019.md
