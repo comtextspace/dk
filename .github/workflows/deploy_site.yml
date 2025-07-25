@@ -8,52 +8,70 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Install pandoc
-        run: sudo apt-get install -y pandoc
 
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Checkout tools repo
-        uses: actions/checkout@v2
+      - name: Checkout main repo
+        uses: actions/checkout@v4
+
+      - name: Checkout comtext_builder repo
+        uses: actions/checkout@v4
         with:
-          repository: ZaryaXYZ/comtext_builder
+          repository: comtextspace/comtext_builder
           path: builder
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
+      - name: Cache pandoc binary
+        id: cache-pandoc
+        uses: actions/cache@v4
         with:
-          node-version: "22"
+          path: pandoc
+          key: pandoc-3.7.0.2-${{ runner.os }}
+          
+      - name: Download pandoc
+        if: steps.cache-pandoc.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p pandoc
+          wget -q https://github.com/jgm/pandoc/releases/download/3.7.0.2/pandoc-3.7.0.2-linux-amd64.tar.gz -O pandoc.tar.gz
+          tar -xzf pandoc.tar.gz -C pandoc --strip-components=1
+          rm pandoc.tar.gz
+          
+      - name: Add pandoc to PATH
+        run: |
+          sudo ln -s $PWD/pandoc/bin/pandoc /usr/local/bin/pandoc
+          
+      - name: Check pandoc version
+        run: pandoc --version
 
-      # cache node_modules
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
       - name: Cache dependencies
         uses: actions/cache@v4
         id: yarn-cache
         with:
           path: |
-            **/node_modules
-          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+            builder/node_modules
+            /home/runner/.cache/yarn/v6
+          key: ${{ runner.os }}-yarn-builder-${{ hashFiles('builder/yarn.lock') }}
           restore-keys: |
-            ${{ runner.os }}-yarn-
+            ${{ runner.os }}-yarn-builder-
 
-      # install dependencies if the cache did not hit
       - name: Install dependencies
         if: steps.yarn-cache.outputs.cache-hit != 'true'
-        run: |
-          cd builder
-          yarn --frozen-lockfile
+        working-directory: builder
+        run: yarn --frozen-lockfile
 
       - name: Build pages
-        run: |
-          cd builder
-          node ./index.js
+        working-directory: builder
+        run: node ./index.js
 
       # run build script
       - name: Build VuePress site
+        working-directory: builder
         env:
           NODE_OPTIONS: "--max_old_space_size=4096"
-        run: |
-          cd builder          
-          yarn docs:build
+        run: yarn docs:build
+
       - name: Deploy to GitHub Pages
         if: success()
         uses: crazy-max/ghaction-github-pages@v2
