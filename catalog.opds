@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <title>Архив конференции «Ильенковские чтения»</title>
+  <entry>
+    <title>Ильенков и Гегель: проблема диалектического метода</title>
+    <updated>2025-12-12T14:37:06.638Z</updated>
+    <link href="files/2021.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+  </entry>
+  <entry>
+    <title>Диалектика и проблемы анализа социальных процессов. Часть 1</title>
+    <updated>2025-12-12T14:37:06.714Z</updated>
+    <link href="files/2020-1.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+  </entry>
+  <entry>
+    <title>Диалектика и проблемы анализа социальных процессов. Часть 2</title>
+    <updated>2025-12-12T14:37:06.824Z</updated>
+    <link href="files/2020-2.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+  </entry>
+  <entry>
+    <title>Э. В. Ильенков: Проблема единства и целостности философско-мировоззренческих взглядов</title>
+    <updated>2025-12-12T14:37:06.974Z</updated>
+    <link href="files/2019.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+  </entry>
+  <entry>
+    <title>Ильенковские чтения-2019. Обзор международной научной конференции</title>
+    <updated>2025-12-12T14:37:06.982Z</updated>
+    <link href="files/2019-obzor.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+  </entry>
+  <entry>
+    <title>Э. В. Ильенков и философия Маркса</title>
+    <updated>2025-12-12T14:37:07.093Z</updated>
+    <link href="files/2018-1.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+  </entry>
+  <entry>
+    <title>Философия Э. В. Ильенкова и современная психология</title>
+    <updated>2025-12-12T14:37:07.195Z</updated>
+    <link href="files/2018-2.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+  </entry>
+  <entry>
+    <title>Э. В. Ильенков и проблема человека в революционную эпоху</title>
+    <updated>2025-12-12T14:37:07.289Z</updated>
+    <link href="files/2017.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+  </entry>
+  <entry>
+    <title>Заметки о XIX «Ильенковских чтениях» глазами очевидца</title>
+    <updated>2025-12-12T14:37:07.297Z</updated>
+    <link href="files/2017-obzor.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+  </entry>
+  <entry>
+    <title>Анализ философских текстов Платона и Аристотеля посредством вопросов-суждений</title>
+    <updated>2025-12-12T14:37:07.505Z</updated>
+    <link href="files/barsukov-analiz-filosofskih-tekstov-platona-i-aristotelya-posredstvom.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>И. С. Барсуков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Метафизика</title>
+    <updated>2025-12-12T14:37:07.513Z</updated>
+    <link href="files/gegel-metafizika.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Гегель</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Свобода, закон, справедливость. Практическая философия Канта и политическая этика современности</title>
+    <updated>2025-12-12T14:37:07.521Z</updated>
+    <link href="files/shchemek-svoboda-zakon-spravedlivost-prakticheskaya-filosofiya-kanta.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Ян Марек Щемек</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Отзыв на кандидатскую диссертацию Г. В. Лобастова «Мышление и деятельность»</title>
+    <updated>2025-12-12T14:37:07.527Z</updated>
+    <link href="files/ilenkov-otzyv-na-kandidatskuyu-dissertaciyu-lobastova.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Эвальд Васильевич Ильенков</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Мышление и деятельность: кандидатская диссертация кандидата философских наук</title>
+    <updated>2025-12-12T14:37:07.553Z</updated>
+    <link href="files/lobastov-myshlenie-i-deyatelnost-kandidatskaya-dissertaciya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Геннадий Васильевич Лобастов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Природа мышления как универсальной способности человека</title>
+    <updated>2025-12-12T14:37:07.598Z</updated>
+    <link href="files/lobastov-priroda-myshleniya-kak-universalnoy-sposobnosti-cheloveka.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Геннадий Васильевич Лобастов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Логика понятия в философии Гегеля (к материалистической апологии гегелевской философии)</title>
+    <updated>2025-12-12T14:37:07.608Z</updated>
+    <link href="files/lobastov-logika-ponyatiya-v-filosofii-gegelya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Геннадий Васильевич Лобастов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>М. Я. Щемек, Э. В. Ильенков и трансцендентализм</title>
+    <updated>2025-12-12T14:37:07.612Z</updated>
+    <link href="files/dmitrievskiy-shchemek-ilenkov-i-transcendentalizm.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Е. М. Дмитриевский</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Гегель и проблема математического понятия</title>
+    <updated>2025-12-12T14:37:07.618Z</updated>
+    <link href="files/morozov-gegel-i-problema-matematicheskogo-ponyatiya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Диалектика от Канта до Гегеля: между видимостью и абсолютной идеей</title>
+    <updated>2025-12-12T14:37:07.624Z</updated>
+    <link href="files/morozov-dialektika-ot-kanta-do-gegelya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>К теоретико-методологическим основаниям разумности творческого процесса: от Иммануила Канта до Эвальда Ильенкова</title>
+    <updated>2025-12-12T14:37:07.627Z</updated>
+    <link href="files/morozov-k-teoretiko-metodologicheskim-osnovaniyam-razumnosti-tvorcheskogo-processa.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Культура или культивирование. Э. В. Ильенков о противоречиях образовательного процесса</title>
+    <updated>2025-12-12T14:37:07.632Z</updated>
+    <link href="files/morozov-kultura-ili-kultivirovanie.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Математика как проблема в творчестве Э. В. Ильенкова</title>
+    <updated>2025-12-12T14:37:07.639Z</updated>
+    <link href="files/morozov-matematika-kak-problema-v-tvorchestve-ilenkova.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>О «линии Шеллинга» и «линии Гегеля» в советском марксизме</title>
+    <updated>2025-12-12T14:37:07.647Z</updated>
+    <link href="files/morozov-o-linii-shellinga-i-linii-gegelya-v-sovetskom-marksizme.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>От «апологии тоталитаризма» к «прыжку в царство свободы»: гегелевская «Философия права» как теоретический образ радикальной эмансипации человека</title>
+    <updated>2025-12-12T14:37:07.649Z</updated>
+    <link href="files/morozov-ot-apologii-totalitarizma-k-pryzhku-v-carstvo-svobody.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Платон против «диамата»: спор о предмете философской науки в свете диалектики тотального и фрагментарного</title>
+    <updated>2025-12-12T14:37:07.656Z</updated>
+    <link href="files/morozov-platon-protiv-diamata.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Понятие «фрактальность» как логическая категория</title>
+    <updated>2025-12-12T14:37:07.661Z</updated>
+    <link href="files/morozov-ponyatie-fraktalnost-kak-logicheskaya-kategoriya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Проблема идеального и социальный солипсизм: к диалогу Э. В. Ильенкова и М. А. Лифшица (часть 2)</title>
+    <updated>2025-12-12T14:37:07.669Z</updated>
+    <link href="files/morozov-problema-idealnogo-i-socialnyy-solipsizm-2.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Проблема идеального и социальный солипсизм: к диалогу Э. В. Ильенкова и М. А. Лифшица (часть 1)</title>
+    <updated>2025-12-12T14:37:07.674Z</updated>
+    <link href="files/morozov-problema-idealnogo-i-socialnyy-solipsizm.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Противоречие непрерывности и дискретности как существенное определение фрактального</title>
+    <updated>2025-12-12T14:37:07.680Z</updated>
+    <link href="files/morozov-protivorechie-nepreryvnosti-i-diskretnosti-kak-sushchestvennoe.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Прощание с Загорским экспериментом</title>
+    <updated>2025-12-12T14:37:07.687Z</updated>
+    <link href="files/morozov-proshchanie-s-zagorskim-eksperimentom.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Рецензия на книгу В. Г. Лобастова «Ум как точка опоры»</title>
+    <updated>2025-12-12T14:37:07.691Z</updated>
+    <link href="files/morozov-recenziya-na-knigu-lobastova-um-kak-tochka-opory.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Свобода и необходимость с позиций теории фрактальности</title>
+    <updated>2025-12-12T14:37:07.696Z</updated>
+    <link href="files/morozov-svoboda-i-neobhodimost-s-poziciy-teorii-fraktalnosti.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Смит, Гегель, Ильенков: политэкономическая проблематика в фокусе диалектической мысли</title>
+    <updated>2025-12-12T14:37:07.702Z</updated>
+    <link href="files/morozov-smit-gegel-ilenkov-politekonomicheskaya-problematika.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Современность как философская проблема</title>
+    <updated>2025-12-12T14:37:07.706Z</updated>
+    <link href="files/morozov-sovremennost-kak-filosofskaya-problema.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Становление субъектности как условие всеобщего развития: к вопросу о требованиях исторического момента</title>
+    <updated>2025-12-12T14:37:07.713Z</updated>
+    <link href="files/morozov-stanovlenie-subektnosti-kak-uslovie-vseobshchego-razvitiya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Суверенитет, автономия, личность: к проблеме истинности форм общественного бытия в немецкой классической философии</title>
+    <updated>2025-12-12T14:37:07.716Z</updated>
+    <link href="files/morozov-suverenitet-avtonomiya-lichnost.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Технология в фокусе диалектической мысли: Фихте, Гегель, Маркс о проблемах кибернетики</title>
+    <updated>2025-12-12T14:37:07.720Z</updated>
+    <link href="files/morozov-tehnologiya-v-fokuse-dialekticheskoy-mysli.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Труд и общение в практической философии Э. В. Ильенкова</title>
+    <updated>2025-12-12T14:37:07.726Z</updated>
+    <link href="files/morozov-trud-i-obshchenie-v-prakticheskoy-filosofii-ilenkova.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Философия как наука: наследие немецкого идеализма в контексте обоснования способов познания</title>
+    <updated>2025-12-12T14:37:07.729Z</updated>
+    <link href="files/morozov-filosofiya-kak-nauka.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Фрактальность в свете трех кризисов оснований математики</title>
+    <updated>2025-12-12T14:37:07.736Z</updated>
+    <link href="files/morozov-fraktalnost-v-svete-treh-krizisov-osnovaniy-matematiki.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Эвальд Ильенков, Марек Щемек и проблемы нашего времени</title>
+    <updated>2025-12-12T14:37:07.743Z</updated>
+    <link href="files/morozov-evald-ilenkov-marek-shchemek-i-problemy-nashego-vremeni.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Логика фрактальности как монистический проект материалистической диалектики</title>
+    <updated>2025-12-12T14:37:07.753Z</updated>
+    <link href="files/morozov-logika-fraktalnosti-kak-monisticheskiy-proekt.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>М. Ю. Морозов</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Диалектика разумной формы и феноменология безумия</title>
+    <updated>2025-12-12T14:37:08.139Z</updated>
+    <link href="files/lobastov-dialektika-razumnoy-formy-i-fenomenologiya-bezumiya.fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2"/>
+    <author>
+      <name>Геннадий Васильевич Лобастов</name>
+    </author>
+  </entry>
+</feed>
